@@ -6,6 +6,9 @@
 <p align="center"> Desafio 01 do segundo capítulo do módulo de react da Rocketseat </p>
 
 ## Tecnologias🚀
--html
--Typescript
--Custom hooks 
+
+- html
+
+- Typescript
+
+- Custom hooks 
